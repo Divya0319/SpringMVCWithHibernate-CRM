@@ -31,3 +31,10 @@ Here are the screenshots of the app running on localhost.
 <br>   
  
 ![List updated after adding Kyle Reese](https://github.com/Divya0319/SpringMVCWithHibernate-CRM/blob/master/screenshots/List%20updated%2C%20after%20adding%20Kyle%20Reese.png)
+
+### 6. Can search for a customer by his first name and last name
+  (Screenshots coming soon!!)
+  
+### 7. Can sort customers based on their first name, last name or email, in ascending order.
+
+  (Screenshots coming soon!!)
