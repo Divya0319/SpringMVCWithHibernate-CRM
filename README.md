@@ -32,6 +32,9 @@ Here are the screenshots of the app running on localhost.
  
 ![List updated after adding Kyle Reese](https://github.com/Divya0319/SpringMVCWithHibernate-CRM/blob/master/screenshots/List%20updated%2C%20after%20adding%20Kyle%20Reese.png)
 
+
+## Additional functionalities
+
 ### 6. Can search for a customer by his first name and last name
 ![Search customers](https://github.com/Divya0319/SpringMVCWithHibernate-CRM/blob/master/screenshots/CRM%20App%20search%20customers%20gif.gif)  
   
